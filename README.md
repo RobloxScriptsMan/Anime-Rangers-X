@@ -2,7 +2,7 @@
 
 Experience the **next level of automation** in Anime Rangers X with this powerful, free, and fully keyless script. Whether you're looking to farm faster, parry flawlessly, or dominate the game with minimal effort, this tool has your back. Perfect for solo warriors or team grinders, this script is your ultimate secret weapon.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/RobloxScriptsMan/Anime-Rangers-X/blob/main/anime%20rangers%20x.png)
 
 ---
 
